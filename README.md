@@ -40,16 +40,6 @@ Perintah ini akan melatih model menggunakan dataset dan menyimpan model serta ma
   streamlit run app.py
 Perintah ini akan menjalankan aplikasi Streamlit yang dapat diakses melalui browser.
 
-# Struktur Proyek
-.
-├── app.py                      # Aplikasi Streamlit
-├── data/
-│   └── Cleaned_Laptop_data.csv # Dataset laptop
-├── model/
-│   ├── category_mapping.json   # Mapping kategori untuk fitur
-│   └── laptop_price_model.pkl  # Model yang telah dilatih
-└── train_model.py              # Script untuk melatih model
-
 # Pengembangan Lebih Lanjut
 Beberapa ide untuk pengembangan lebih lanjut:
 
